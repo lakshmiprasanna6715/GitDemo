@@ -16,6 +16,10 @@ public class ExampleOne {
 		
 		//driver.manage().timeouts().implicitlyWait(3000,TimeUnit.SECONDS);
 		Thread.sleep(3000);
+	
+		System.out.println("URL name");
+		System.out.println("academy name");
+		
 		
 		driver.close();
 		
