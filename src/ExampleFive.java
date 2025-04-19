@@ -22,6 +22,8 @@ public class ExampleFive {
 		Assert.assertEquals(driver.findElement(By.id("divpaxinfo")).getText(), "5 Adult");
 		
 		System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
+		
+		System.out.println("execute static dropdowns");
 	}
 
 }

@@ -19,7 +19,8 @@ public class ExampleOne {
 	
 		System.out.println("URL name");
 		System.out.println("academy name");
-		
+		System.out.println("gettitle");
+		System.out.println("getcurrentURL");
 		
 		driver.close();
 		
